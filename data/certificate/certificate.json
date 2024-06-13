@@ -1,0 +1,32 @@
+[
+  {
+    "image": "images/Cert_DBI.png",
+    "name": "firstWeb",
+    "title": "firstWeb",
+    "gpa": ""
+  },
+  {
+    "image": "images/Cert_DBI.png",
+    "name": "firstJavascrip",
+    "title": "firstJavascrip",
+    "gpa": ""
+  },
+  {
+    "image": "images/Cert_DBI.png",
+    "name": "frontend",
+    "title": "frontend",
+    "gpa": ""
+  },
+  {
+    "image": "images/Cert_DBI.png",
+    "name": "backend",
+    "title": "backend",
+    "gpa": ""
+  },
+  {
+    "image": "images/Cert_DBI.png",
+    "name": "fullstack",
+    "title": "fullstack",
+    "gpa": ""
+  }
+]

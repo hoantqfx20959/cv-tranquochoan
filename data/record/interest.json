@@ -1,0 +1,18 @@
+[
+  {
+    "name": "music",
+    "icon": "ic-megaphone"
+  },
+  {
+    "name": "game",
+    "icon": "ic-strategy"
+  },
+  {
+    "name": "traveling",
+    "icon": "ic-hotairballoon"
+  },
+  {
+    "name": "cook",
+    "icon": "ic-basket"
+  }
+]

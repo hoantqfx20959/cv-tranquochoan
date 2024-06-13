@@ -1,0 +1,10 @@
+[
+  {
+    "name": "english",
+    "skill": ["skill-span-1", "skill-span-2", "skill-span-2"]
+  },
+  {
+    "name": "japanese",
+    "skill": ["skill-span-1", "skill-span-2", "skill-span-2"]
+  }
+]
