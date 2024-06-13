@@ -71,7 +71,7 @@ projectData.map(item => {
     </li>
   </ul>
   <div class="card-body d-flex align-items-center justify-content-center">
-    <a href=${item.link} class="card-link">Link to product</a>
+    <a target="_blank" href=${item.link} class="card-link">Link to product</a>
   </div>
   `;
 
