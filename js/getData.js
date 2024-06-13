@@ -1,7 +1,7 @@
 const getData = (folder, name) => {
   let res;
   $.ajax({
-    url: `/cv-tranquochoan/js
+    url: `..
 /data/${folder}/${name}.json`,
     dataType: 'json',
     async: false,
