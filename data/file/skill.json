@@ -1,0 +1,22 @@
+[
+  {
+    "name": "HTML/CSS",
+    "width": "75%"
+  },
+  {
+    "name": "Javascript",
+    "width": "75%"
+  },
+  {
+    "name": "Bootstrap",
+    "width": "75%"
+  },
+  {
+    "name": "ReactJS",
+    "width": "75%"
+  },
+  {
+    "name": "NodeJS",
+    "width": "75%"
+  }
+]

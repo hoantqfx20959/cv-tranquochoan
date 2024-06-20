@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  color: #868e96;
+}
+
+p {
+  white-space: pre-line;
+}
+
+a {
+  text-decoration: none;
+  color: #74c0fc;
+  font-weight: 600;
+}
+
+ul {
+  list-style: none;
+}
+
+i {
+  color: #74c0fc;
+}
+
+.row {
+  margin-bottom: 15px;
+}
+
+.flags {
+  position: sticky;
+  top: 10px;
+  z-index: 1;
+  width: 100%;
+  text-align: end;
+}
+
+.flagIcon {
+  height: 24px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+#avatar {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border: 5px solid #f1f3f5;
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgb(0 0 0 / 25%);
+}
+
+.textShadow {
+  text-shadow: 0px 0px 10px #ffc078, 0px 0px 20px #ffc078, 0px 0px 40px #ffc078;
+}
+
+.textShadow h1 {
+  color: #74c0fc;
+}
+
+.titleDiv {
+  display: flex;
+  gap: 10px;
+}
+
+.title {
+  color: #74c0fc;
+}
+
+.titleLine {
+  flex-grow: 1;
+}
+
+.titleLine::before {
+  content: '';
+  background-color: #ffc078;
+  position: absolute;
+  top: 20px;
+  right: 0;
+  width: 100%;
+  height: 1px;
+}
+
+.skillLine {
+  display: flex;
+}
+
+.skillLine-1 {
+  height: 5px;
+  background: #74c0fc;
+}
+
+.skillLine-2 {
+  height: 5px;
+  background: #ced4da;
+}
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 992px) {
+}

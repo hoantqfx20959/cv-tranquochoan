@@ -1,0 +1,62 @@
+{
+  "colLeft_personalInformation": "Thông tin cá nhân",
+  "colLeft_personalInformation_sex": "Nam",
+  "colLeft_personalInformation_dateOfBirth": "Ngày 11 tháng 4 năm 1992",
+
+  "colLeft_objective": "Mục tiêu",
+  "colLeft_objective_content": "Mục tiêu ngắn hạn (6 tháng - 1 năm):\n- Cố gắng làm quen với môi trường và làm việc càng nhanh càng tốt.\n- Thành thạo và  biết vận dụng những kiến thức đã học vào công việc.\n- Trở thành một người nhà phát triển cấp dưới.\nMục tiêu dài hạn (2 năm - 5 năm):\n- Trở thành nhà phát triển cấp cao\n- Nhận 3 chứng chỉ Microsoft\n- Đạt band điểm 7.5 trong kỳ thi IELTS",
+
+  "colLeft_education": "Giáo dục",
+  "colLeft_education_specialization": "Chuyên môn",
+  "colLeft_education_fullstack": "WEB FULLSTACK",
+  "colLeft_education_acc": "A.C.C. International Culture College",
+  "colLeft_education_japanese": "Japanese",
+  "colLeft_education_cdxd": "Construction College",
+  "colLeft_education_economic": "Economic management of the construction industry",
+
+  "colLeft_skill": "Kỹ năng",
+
+  "colLeft_certificate": "Giấy chứng nhận",
+  "colLeft_certificate_name_firstWeb": "BUILD FIRST WEBSITE - FUNiX",
+  "colLeft_certificate_title_firstWeb": "Chứng chỉ theo chương trình chứng nhận của công ty",
+  "colLeft_certificate_name_firstJavascrip": "CREATING FIRST PROGRAM WITH JAVASCRIP - FUNiX",
+  "colLeft_certificate_title_firstJavascrip": "Chứng chỉ theo chương trình chứng nhận của công ty",
+  "colLeft_certificate_name_frontend": "FRONT-END WEB PROGRAMMING WITH REACT - FUNiX",
+  "colLeft_certificate_title_frontend": "Chứng chỉ theo chương trình chứng nhận của công ty",
+  "colLeft_certificate_name_backend": "BACK-END WEB PROGRAMMING WITH NODEJS - FUNiX",
+  "colLeft_certificate_title_backend": "Chứng chỉ theo chương trình chứng nhận của công ty",
+  "colLeft_certificate_name_fullstack": "FULLSTACK WEB PROGRAMMER - FUNiX",
+  "colLeft_certificate_title_fullstack": "Chứng chỉ theo chương trình chứng nhận của công ty",
+
+  "colLeft_award": "Giải Thưởng",
+  "colLeft_award_name_jnpt": "Japanese - JLPT - N3",
+  "colLeft_award_title_jnpt": "Kiểm tra trình độ tiếng Nhật",
+
+  "colRight_references": "Người giới thiệu",
+
+  "colRight_experience": "Kinh nghiệm",
+  "colRight_experience_name_sale": "Đồ nội thất gỗ",
+  "colRight_experience_desc_sale": "- Tìm kiếm khách hàng tiềm năng.\n- Tìm kiếm nguồn hàng tốt giá rẻ.\n- Quản lý các sản phẩm hiện có.\n- Lập kế hoạch sản phẩm.",
+  "colRight_experience_name_arnest": "Arnest 1 (ở Nhật Bản)",
+  "colRight_experience_desc_arnest": "- Lập tiến độ dựa trên thiết kế và yêu cầu của khách hàng.\n- Bàn giao thiết kế mặt bằng cho đơn vị thi công.\n- Quản lý tiến độ vật tư an toàn trong quá trình thi công.",
+  "colRight_experience_name_319": "Tổng công ty 319 - Xí nghiệp 9",
+  "colRight_experience_desc_319": "- Lập tiến độ dựa trên thiết kế và yêu cầu của khách hàng.\n- Bàn giao thiết kế mặt bằng cho đơn vị thi công.\n- Quản lý tiến độ vật tư an toàn trong quá trình thi công.",
+
+  "colRight_project": "Dự án",
+  "colRight_project_descriptions": "Mô tả",
+  "colRight_project_mission": "Nhiệm vụ",
+  "colRight_project_technology": "Công nghệ",
+  "colRight_project_view": "Xem nguồn",
+  "colRight_project_name_cv": "PERSONAL CV",
+  "colRight_project_descriptions_cv": "Trang web CV cá nhân trực tuyến. Bao gồm thông tin cá nhân cũng như kỹ năng chuyên môn.",
+  "colRight_project_name_pet": "PET MANAGEMENT",
+  "colRight_project_descriptions_pet": "Trang web giúp quản lý thông tin thú cưng bao gồm tên, tuổi, cân nặng, chiều dài, giống, loài,… bao gồm các chức năng thêm, chỉnh sửa, xóa..",
+  "colRight_project_name_new": "NEWS",
+  "colRight_project_descriptions_new": "Trang web tin tức từ nhiều nguồn khác nhau, người dùng có thể tìm kiếm tin tức dựa trên từ khóa.",
+  "colRight_project_name_movie": "MOVIE",
+  "colRight_project_descriptions_movie": "Các trang web phim giúp người dùng tìm kiếm phim dựa trên từ khóa và xem review phim mỗi khi click vào poster.",
+  "colRight_project_name_booking": "BOOKING",
+  "colRight_project_descriptions_booking": "Website khách sạn giúp người dùng tìm kiếm khách sạn dựa trên từ khóa và đặt phòng theo yêu cầu. Có trang quản lý riêng với các chức năng thêm, sửa, xóa,… Sử dụng mongoose làm nơi lưu trữ dữ liệu sử dụng.",
+  "colRight_project_name_shop": "SHOP",
+  "colRight_project_descriptions_shop": "Website cửa hàng với nhiều sản phẩm khác nhau, người dùng có thể tìm kiếm sản phẩm dựa trên từ khóa cho sẵn. Có trang quản lý riêng với các chức năng thêm, sửa, xóa,… Sử dụng mongoose làm nơi lưu trữ dữ liệu sử dụng."
+}

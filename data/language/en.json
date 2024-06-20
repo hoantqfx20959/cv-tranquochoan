@@ -1,0 +1,62 @@
+{
+  "colLeft_personalInformation": "Personal information",
+  "colLeft_personalInformation_sex": "Male",
+  "colLeft_personalInformation_dateOfBirth": "April 11, 1992",
+
+  "colLeft_objective": "Objective",
+  "colLeft_objective_content": "Short-term Goal (6 months - 1 year):\n- Try to get used to the environment and work as quickly as possible.\n- Be proficient and know how to apply the knowledge learned in work.\n- Become a junior developer.\nLong-term Goal (2 years - 5 years):\n- Become a senior developer\n- Get 3 Microsoft certificates\n- Get band score 7.5 in IELTS exam",
+
+  "colLeft_education": "Education",
+  "colLeft_education_specialization": "Specialization",
+  "colLeft_education_fullstack": "WEB FULLSTACK",
+  "colLeft_education_acc": "A.C.C. International Culture College",
+  "colLeft_education_japanese": "Japanese",
+  "colLeft_education_cdxd": "Construction College",
+  "colLeft_education_economic": "Economic management of the construction industry",
+
+  "colLeft_skill": "Skills",
+
+  "colLeft_certificate": "Certificate",
+  "colLeft_certificate_name_firstWeb": "BUILD FIRST WEBSITE - FUNiX",
+  "colLeft_certificate_title_firstWeb": "Certificate according to the company's certification program",
+  "colLeft_certificate_name_firstJavascrip": "CREATING FIRST PROGRAM WITH JAVASCRIP - FUNiX",
+  "colLeft_certificate_title_firstJavascrip": "Certificate according to the company's certification program",
+  "colLeft_certificate_name_frontend": "FRONT-END WEB PROGRAMMING WITH REACT - FUNiX",
+  "colLeft_certificate_title_frontend": "Certificate according to the company's certification program",
+  "colLeft_certificate_name_backend": "BACK-END WEB PROGRAMMING WITH NODEJS - FUNiX",
+  "colLeft_certificate_title_backend": "Certificate according to the company's certification program",
+  "colLeft_certificate_name_fullstack": "FULLSTACK WEB PROGRAMMER - FUNiX",
+  "colLeft_certificate_title_fullstack": "Certificate according to the company's certification program",
+
+  "colLeft_award": "Award",
+  "colLeft_award_name_jnpt": "Japanese - JLPT - N3",
+  "colLeft_award_title_jnpt": "Japanese language proficiency test",
+
+  "colRight_references": "References",
+
+  "colRight_experience": "Experience",
+  "colRight_experience_name_sale": "Wooden furniture",
+  "colRight_experience_desc_sale": "- Search for potential customers.\n- Search for good sources of cheap goods.\n- Manage existing products.\n- Create product plans.",
+  "colRight_experience_name_arnest": "Arnest 1 (in Japan)",
+  "colRight_experience_desc_arnest": "- Establish schedule based on design and customer requirements.\n- Hand over site design to construction unit.\n- Manage material progress safely during construction.",
+  "colRight_experience_name_319": "Corporation 319 - Enterprise 9",
+  "colRight_experience_desc_319": "- Establish schedule based on design and customer requirements.\n- Hand over site design to construction unit.\n- Manage material progress safely during construction.",
+
+  "colRight_project": "Project",
+  "colRight_project_descriptions": "Descriptions",
+  "colRight_project_mission": "Missions",
+  "colRight_project_technology": "Technologies",
+  "colRight_project_view": "View source",
+  "colRight_project_name_cv": "PERSONAL CV",
+  "colRight_project_descriptions_cv": "Online personal CV website. Include personal information as well as professional skills.",
+  "colRight_project_name_pet": "PET MANAGEMENT",
+  "colRight_project_descriptions_pet": "The website helps manage pet information including name, age, weight, length, breed, species, etc. including add, edit, and delete functions.",
+  "colRight_project_name_new": "NEWS",
+  "colRight_project_descriptions_new": "News website from many different sources, users can search for news based on keywords.",
+  "colRight_project_name_movie": "MOVIE",
+  "colRight_project_descriptions_movie": "Movie websites help users search for movies based on keywords and view movie reviews every time they click on the poster.",
+  "colRight_project_name_booking": "BOOKING",
+  "colRight_project_descriptions_booking": "Hotel websites help users search for hotels based on keywords and book rooms upon request. There is a separate management page with the functions of adding, editing, deleting, etc. Use mongoose as a place to store usage data.",
+  "colRight_project_name_shop": "SHOP",
+  "colRight_project_descriptions_shop": "Store website with many different products, users can search for products based on given keywords. There is a separate management page with the functions of adding, editing, deleting, etc. Use mongoose as a place to store usage data."
+}

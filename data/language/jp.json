@@ -1,0 +1,62 @@
+{
+  "colLeft_personalInformation": "個人情報",
+  "colLeft_personalInformation_sex": "男",
+  "colLeft_personalInformation_dateOfBirth": "1992年4月11日",
+
+  "colLeft_objective": "客観的",
+  "colLeft_objective_content": "短期目標 (6 か月 - 1 年):\n- できるだけ早く環境と仕事に慣れるようにします。\n- 仕事で学んだ知識を応用する方法を習得します。\n- ジュニア デベロッパーになります。\n長期目標 (2 年 - 5 年):\n- シニア デベロッパーになります。\n- Microsoft 認定資格を 3 つ取得します。\n- IELTS 試験でバンド スコア 7.5 を取得します。",
+
+  "colLeft_education": "教育",
+  "colLeft_education_specialization": "専門",
+  "colLeft_education_fullstack": "WEB FULLSTACK",
+  "colLeft_education_acc": "A.C.C. International Culture College",
+  "colLeft_education_japanese": "Japanese",
+  "colLeft_education_cdxd": "Construction College",
+  "colLeft_education_economic": "Economic management of the construction industry",
+
+  "colLeft_skill": "スキル",
+
+  "colLeft_certificate": "証明書",
+  "colLeft_certificate_name_firstWeb": "BUILD FIRST WEBSITE - FUNiX",
+  "colLeft_certificate_title_firstWeb": "会社の認証プログラムに従った証明書",
+  "colLeft_certificate_name_firstJavascrip": "CREATING FIRST PROGRAM WITH JAVASCRIP - FUNiX",
+  "colLeft_certificate_title_firstJavascrip": "会社の認証プログラムに従った証明書",
+  "colLeft_certificate_name_frontend": "FRONT-END WEB PROGRAMMING WITH REACT - FUNiX",
+  "colLeft_certificate_title_frontend": "会社の認証プログラムに従った証明書",
+  "colLeft_certificate_name_backend": "BACK-END WEB PROGRAMMING WITH NODEJS - FUNiX",
+  "colLeft_certificate_title_backend": "会社の認証プログラムに従った証明書",
+  "colLeft_certificate_name_fullstack": "FULLSTACK WEB PROGRAMMER - FUNiX",
+  "colLeft_certificate_title_fullstack": "会社の認証プログラムに従った証明書",
+
+  "colLeft_award": "賞",
+  "colLeft_award_name_jnpt": "Japanese - JLPT - N3",
+  "colLeft_award_title_jnpt": "日本語能力試験",
+
+  "colRight_references": "参考文献",
+
+  "colRight_experience": "経験",
+  "colRight_experience_name_sale": "木製家具",
+  "colRight_experience_desc_sale": "- 潜在顧客を検索します。\n- 安価な商品の良い供給元を検索します。\n- 既存の製品を管理します。\n- 製品計画を作成します。",
+  "colRight_experience_name_arnest": "アーネスト1 (日本)",
+  "colRight_experience_desc_arnest": "- 設計と顧客の要件に基づいてスケジュールを確立します。\n- 現場設計を建設ユニットに引き渡します。\n- 建設中に材料の進捗状況を安全に管理します。",
+  "colRight_experience_name_319": "コーポレーション 319 - エンタープライズ 9",
+  "colRight_experience_desc_319": "- 設計と顧客の要件に基づいてスケジュールを確立します。\n- 現場設計を建設ユニットに引き渡します。\n- 建設中に材料の進捗状況を安全に管理します。",
+
+  "colRight_project": "プロジェクト",
+  "colRight_project_descriptions": "説明",
+  "colRight_project_mission": "ミッション",
+  "colRight_project_technology": "テクノロジー",
+  "colRight_project_view": "ソースを表示",
+  "colRight_project_name_cv": "PERSONAL CV",
+  "colRight_project_descriptions_cv": "オンライン個人履歴書ウェブサイト。個人情報と専門スキルを含めます。",
+  "colRight_project_name_pet": "PET MANAGEMENT",
+  "colRight_project_descriptions_pet": "このウェブサイトは、ペットの名前、年齢、体重、体長、品種、種などの情報の追加、編集、削除機能を含めて管理するのに役立ちます。",
+  "colRight_project_name_new": "NEWS",
+  "colRight_project_descriptions_new": "さまざまなソースからのニュース ウェブサイト。ユーザーはキーワードに基づいてニュースを検索できます。",
+  "colRight_project_name_movie": "MOVIE",
+  "colRight_project_descriptions_movie": "映画ウェブサイトは、ユーザーがキーワードに基づいて映画を検索し、ポスターをクリックするたびに映画のレビューを表示するのに役立ちます。",
+  "colRight_project_name_booking": "BOOKING",
+  "colRight_project_descriptions_booking": "ホテルのウェブサイトは、ユーザーがキーワードに基づいてホテルを検索し、リクエストに応じて部屋を予約するのに役立ちます。追加、編集、削除などの機能を備えた別の管理ページがあります。mongoose を、使用状況データを保存する場所として使用します。",
+  "colRight_project_name_shop": "SHOP",
+  "colRight_project_descriptions_shop": "さまざまな製品を扱うストア Web サイト。ユーザーは、指定されたキーワードに基づいて製品を検索できます。追加、編集、削除などの機能を備えた別の管理ページがあります。mongoose を、使用状況データを保存する場所として使用します。"
+}
