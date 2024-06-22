@@ -18,5 +18,13 @@
   {
     "name": "NodeJS",
     "width": "75%"
+  },
+  {
+    "name": "Sql, MySql, Sql Server, MongoDB",
+    "width": "60%"
+  },
+  {
+    "name": "Github, Glitch, Firebase, Render, Heroku",
+    "width": "80%"
   }
 ]
