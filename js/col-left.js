@@ -1,17 +1,14 @@
 const educationData = getData('file', 'education');
 const skillData = getData('file', 'skill');
 const certificateData = getData('file', 'certificate');
-const awardData = getData('file', 'award');
 
 const educationEl = document.getElementById('colLeft_education');
 const skillEl = document.getElementById('colLeft_skill');
 const certificateEl = document.getElementById('colLeft_certificate');
-const awardEl = document.getElementById('colLeft_award');
 
 educationEl.innerHTML = '';
 skillEl.innerHTML = '';
 certificateEl.innerHTML = '';
-awardEl.innerHTML = '';
 
 educationData.map(item => {
   const divEl = document.createElement('div');
@@ -29,14 +26,15 @@ educationData.map(item => {
 
 skillData.map(item => {
   const divEl = document.createElement('div');
+  divEl.classList.add('d-flex');
 
   divEl.innerHTML = `
-  <p langKey=${'colLeft_skill_' + item.name}>${item.name}</p>
-  <div class="skillLine">
-  <div class="skillLine-1" style="width: ${item.width};"></div>
-  <div class="skillLine-2" style="width: calc(100% - ${item.width});"></div>
-  </div>
-  
+    <div class="col-4">
+    <p langKey=${'colLeft_skill_title_' + item.title}></p>
+    </div>
+    <div class="col-8">
+    <p>${item.list}</p>
+    </div>
   `;
 
   skillEl.appendChild(divEl);
@@ -55,15 +53,4 @@ certificateData.map(item => {
   `;
 
   certificateEl.appendChild(divEl);
-});
-
-awardData.map(item => {
-  const divEl = document.createElement('div');
-
-  divEl.innerHTML = `
-    <h6 class="" langKey=${'colLeft_award_name_' + item.name}>${item.name}</h6>
-    <p class="" langKey=${'colLeft_award_title_' + item.title}>${item.title}</p>
- `;
-
-  awardEl.appendChild(divEl);
 });
