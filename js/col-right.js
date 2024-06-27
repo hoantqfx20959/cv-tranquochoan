@@ -70,7 +70,7 @@ projectData.map(item => {
       <p langKey="colRight_project_view"></p>
       </div>
       <div class="col-9">
-        <p>${item.source}</p>
+        <a target="_blank" href=${item.source}><p>${item.source}</p></a>
       </div>
     </div>
   `;
