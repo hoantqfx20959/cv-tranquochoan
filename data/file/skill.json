@@ -1,30 +1,26 @@
 [
   {
-    "name": "HTML/CSS",
-    "width": "75%"
+    "title": "language",
+    "list": "Javascript"
   },
   {
-    "name": "Javascript",
-    "width": "75%"
+    "title": "frontend",
+    "list": "HTML, CSS, ReactJS, Bootstrap"
   },
   {
-    "name": "Bootstrap",
-    "width": "75%"
+    "title": "backend",
+    "list": "NodeJS, Express - NodeJS"
   },
   {
-    "name": "ReactJS",
-    "width": "75%"
+    "title": "database",
+    "list": "Sql, MySql, Sql Server, MongoDB"
   },
   {
-    "name": "NodeJS",
-    "width": "75%"
+    "title": "system",
+    "list": "Window"
   },
   {
-    "name": "Sql, MySql, Sql Server, MongoDB",
-    "width": "60%"
-  },
-  {
-    "name": "Github, Glitch, Firebase, Render, Heroku",
-    "width": "80%"
+    "title": "technology",
+    "list": "Git, Visual studio code, Github, Glitch, Firebase, Render, Heroku, ..."
   }
 ]
