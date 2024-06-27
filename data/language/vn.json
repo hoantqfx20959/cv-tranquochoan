@@ -4,7 +4,7 @@
   "colLeft_personalInformation_dateOfBirth": "Ngày 11 tháng 4 năm 1992",
 
   "colLeft_objective": "Mục tiêu",
-  "colLeft_objective_content": "Mục tiêu ngắn hạn (6 tháng - 1 năm):\n- Cố gắng làm quen với môi trường và làm việc càng nhanh càng tốt.\n- Thành thạo và  biết vận dụng những kiến thức đã học vào công việc.\n- Trở thành một người nhà phát triển cấp dưới.\nMục tiêu dài hạn (2 năm - 5 năm):\n- Trở thành nhà phát triển cấp cao\n- Nhận 3 chứng chỉ Microsoft\n- Đạt thang điểm 7.5 trong kỳ thi IELTS",
+  "colLeft_objective_content": "Mục tiêu ngắn hạn (6 tháng - 1 năm):\n- Cố gắng làm quen với môi trường và làm việc càng nhanh càng tốt.\n- Thành thạo và  biết vận dụng những kiến thức đã học vào công việc.\n- Trở thành một người nhà phát triển cấp dưới.\nMục tiêu dài hạn (2 năm - 5 năm):\n- Trở thành nhà phát triển cấp cao\n- Nhận 3 chứng chỉ Microsoft\n- Đạt band điểm 7.5 trong kỳ thi IELTS",
 
   "colLeft_education": "Giáo dục",
   "colLeft_education_specialization": "Chuyên môn",
@@ -15,24 +15,18 @@
   "colLeft_education_economic": "Economic management of the construction industry",
 
   "colLeft_skill": "Kỹ năng",
+  "colLeft_skill_title_language": "Ngôn ngữ lập trình",
+  "colLeft_skill_title_backend": "Backend",
+  "colLeft_skill_title_frontend": "Frontend",
+  "colLeft_skill_title_database": "Database",
+  "colLeft_skill_title_system": "Hệ điều hành",
+  "colLeft_skill_title_technology": "Công nghệ khác",
 
   "colLeft_certificate": "Giấy chứng nhận",
-  "colLeft_certificate_name_firstWeb": "BUILD FIRST WEBSITE - FUNiX",
-  "colLeft_certificate_title_firstWeb": "Chứng chỉ theo chương trình chứng nhận của công ty",
-  "colLeft_certificate_name_firstJavascrip": "CREATING FIRST PROGRAM WITH JAVASCRIP - FUNiX",
-  "colLeft_certificate_title_firstJavascrip": "Chứng chỉ theo chương trình chứng nhận của công ty",
-  "colLeft_certificate_name_frontend": "FRONT-END WEB PROGRAMMING WITH REACT - FUNiX",
-  "colLeft_certificate_title_frontend": "Chứng chỉ theo chương trình chứng nhận của công ty",
-  "colLeft_certificate_name_backend": "BACK-END WEB PROGRAMMING WITH NODEJS - FUNiX",
-  "colLeft_certificate_title_backend": "Chứng chỉ theo chương trình chứng nhận của công ty",
-  "colLeft_certificate_name_fullstack": "FULLSTACK WEB PROGRAMMER - FUNiX",
-  "colLeft_certificate_title_fullstack": "Chứng chỉ theo chương trình chứng nhận của công ty",
+  "colLeft_certificate_name_jnpt": "Japanese - JLPT - N3",
+  "colLeft_certificate_title_jnpt": "Kỳ thi năng lực tiếng Nhật",
 
-  "colLeft_award": "Giải Thưởng",
-  "colLeft_award_name_jnpt": "Japanese - JLPT - N3",
-  "colLeft_award_title_jnpt": "Kiểm tra trình độ tiếng Nhật",
-
-  "colRight_references": "Người giới thiệu",
+  "colLeft_references": "Người giới thiệu",
 
   "colRight_experience": "Kinh nghiệm",
   "colRight_experience_name_sale": "Đồ nội thất gỗ",
@@ -46,7 +40,7 @@
   "colRight_project_descriptions": "Mô tả",
   "colRight_project_mission": "Nhiệm vụ",
   "colRight_project_technology": "Công nghệ",
-  "colRight_project_view": "Mã nguồn",
+  "colRight_project_view": "Xem nguồn",
   "colRight_project_name_cv": "PERSONAL CV",
   "colRight_project_descriptions_cv": "Trang web CV cá nhân trực tuyến. Bao gồm thông tin cá nhân cũng như kỹ năng chuyên môn.",
   "colRight_project_name_pet": "PET MANAGEMENT",
